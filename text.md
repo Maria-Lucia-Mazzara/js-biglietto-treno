@@ -11,3 +11,6 @@
 - minorenni= < 18
 - sconto d'applicare 40% per over 65
 - over= >65
+
+## conclusione ##
+- sappiamo che alla fine in base ai kilometri abbiamo un totale e a questo totale devo togliere una percentuale se serve 
