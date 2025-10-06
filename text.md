@@ -7,13 +7,14 @@
 
 ## sappiamo ##
 - Prezzo del biglietto (0,21 al Km)
+- quindi creare una variabile che moltiplica il prezzo per i kilometri
 - Se
 - minorenni= < 18
 - sconto d' applicare 20% per i minorenni
 - Se
 - over= >65
 - sconto d'applicare 40% per over 65
-- Se non c'è niente 
+- Se non c'è nessuna caratteristica
 - nessuno sconto
 
 
